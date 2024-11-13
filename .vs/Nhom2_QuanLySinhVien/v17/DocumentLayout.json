@@ -1,0 +1,349 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EF679F-DA83-4992-8337-1483784C1D48}|Nhom2_QuanLySinhVien.csproj|d:\\thinkoutsidethebox\\daff\\code\\c#\\n2-qlsv-main\\n2-qlsv-main\\quanlynguoidung\\frm_thongtinnguoidung_bac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2EF679F-DA83-4992-8337-1483784C1D48}|Nhom2_QuanLySinhVien.csproj|solutionrelative:quanlynguoidung\\frm_thongtinnguoidung_bac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EF679F-DA83-4992-8337-1483784C1D48}|Nhom2_QuanLySinhVien.csproj|d:\\thinkoutsidethebox\\daff\\code\\c#\\n2-qlsv-main\\n2-qlsv-main\\quanlynguoidung\\frm_doimatkhau_bac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2EF679F-DA83-4992-8337-1483784C1D48}|Nhom2_QuanLySinhVien.csproj|solutionrelative:quanlynguoidung\\frm_doimatkhau_bac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EF679F-DA83-4992-8337-1483784C1D48}|Nhom2_QuanLySinhVien.csproj|d:\\thinkoutsidethebox\\daff\\code\\c#\\n2-qlsv-main\\n2-qlsv-main\\frm_dangnhap_bac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2EF679F-DA83-4992-8337-1483784C1D48}|Nhom2_QuanLySinhVien.csproj|solutionrelative:frm_dangnhap_bac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EF679F-DA83-4992-8337-1483784C1D48}|Nhom2_QuanLySinhVien.csproj|D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\frm_dangnhap_bac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EF679F-DA83-4992-8337-1483784C1D48}|Nhom2_QuanLySinhVien.csproj|solutionrelative:frm_dangnhap_bac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EF679F-DA83-4992-8337-1483784C1D48}|Nhom2_QuanLySinhVien.csproj|D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\quanlyhososinhvien\\frm_hososinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EF679F-DA83-4992-8337-1483784C1D48}|Nhom2_QuanLySinhVien.csproj|solutionrelative:quanlyhososinhvien\\frm_hososinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EF679F-DA83-4992-8337-1483784C1D48}|Nhom2_QuanLySinhVien.csproj|D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\quanlyhososinhvien\\frm_hososinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2EF679F-DA83-4992-8337-1483784C1D48}|Nhom2_QuanLySinhVien.csproj|solutionrelative:quanlyhososinhvien\\frm_hososinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EF679F-DA83-4992-8337-1483784C1D48}|Nhom2_QuanLySinhVien.csproj|D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\model\\connectiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EF679F-DA83-4992-8337-1483784C1D48}|Nhom2_QuanLySinhVien.csproj|solutionrelative:model\\connectiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EF679F-DA83-4992-8337-1483784C1D48}|Nhom2_QuanLySinhVien.csproj|D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\model\\ketnoimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EF679F-DA83-4992-8337-1483784C1D48}|Nhom2_QuanLySinhVien.csproj|solutionrelative:model\\ketnoimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EF679F-DA83-4992-8337-1483784C1D48}|Nhom2_QuanLySinhVien.csproj|D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\model\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EF679F-DA83-4992-8337-1483784C1D48}|Nhom2_QuanLySinhVien.csproj|solutionrelative:model\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EF679F-DA83-4992-8337-1483784C1D48}|Nhom2_QuanLySinhVien.csproj|D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2EF679F-DA83-4992-8337-1483784C1D48}|Nhom2_QuanLySinhVien.csproj|solutionrelative:trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EF679F-DA83-4992-8337-1483784C1D48}|Nhom2_QuanLySinhVien.csproj|D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\baocaothongke\\baocaothongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2EF679F-DA83-4992-8337-1483784C1D48}|Nhom2_QuanLySinhVien.csproj|solutionrelative:baocaothongke\\baocaothongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EF679F-DA83-4992-8337-1483784C1D48}|Nhom2_QuanLySinhVien.csproj|D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\quanlylophocphan\\lophocphan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2EF679F-DA83-4992-8337-1483784C1D48}|Nhom2_QuanLySinhVien.csproj|solutionrelative:quanlylophocphan\\lophocphan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EF679F-DA83-4992-8337-1483784C1D48}|Nhom2_QuanLySinhVien.csproj|D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EF679F-DA83-4992-8337-1483784C1D48}|Nhom2_QuanLySinhVien.csproj|solutionrelative:trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EF679F-DA83-4992-8337-1483784C1D48}|Nhom2_QuanLySinhVien.csproj|D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\quanlydiem\\frm_quanlydiemmonhoc_huyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EF679F-DA83-4992-8337-1483784C1D48}|Nhom2_QuanLySinhVien.csproj|solutionrelative:quanlydiem\\frm_quanlydiemmonhoc_huyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EF679F-DA83-4992-8337-1483784C1D48}|Nhom2_QuanLySinhVien.csproj|D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\quanlydiem\\frm_quanlydiemmonhoc_huyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2EF679F-DA83-4992-8337-1483784C1D48}|Nhom2_QuanLySinhVien.csproj|solutionrelative:quanlydiem\\frm_quanlydiemmonhoc_huyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EF679F-DA83-4992-8337-1483784C1D48}|Nhom2_QuanLySinhVien.csproj|D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\resources\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2EF679F-DA83-4992-8337-1483784C1D48}|Nhom2_QuanLySinhVien.csproj|solutionrelative:resources\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EF679F-DA83-4992-8337-1483784C1D48}|Nhom2_QuanLySinhVien.csproj|D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\quanlyhososinhvien\\frm_themsinhvien_huyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2EF679F-DA83-4992-8337-1483784C1D48}|Nhom2_QuanLySinhVien.csproj|solutionrelative:quanlyhososinhvien\\frm_themsinhvien_huyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EF679F-DA83-4992-8337-1483784C1D48}|Nhom2_QuanLySinhVien.csproj|D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\quanlyhososinhvien\\frm_themsinhvien_huyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EF679F-DA83-4992-8337-1483784C1D48}|Nhom2_QuanLySinhVien.csproj|solutionrelative:quanlyhososinhvien\\frm_themsinhvien_huyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EF679F-DA83-4992-8337-1483784C1D48}|Nhom2_QuanLySinhVien.csproj|D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\quanlydiem\\frm_diemthi_khanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2EF679F-DA83-4992-8337-1483784C1D48}|Nhom2_QuanLySinhVien.csproj|solutionrelative:quanlydiem\\frm_diemthi_khanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EF679F-DA83-4992-8337-1483784C1D48}|Nhom2_QuanLySinhVien.csproj|D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EF679F-DA83-4992-8337-1483784C1D48}|Nhom2_QuanLySinhVien.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_ThongTinNguoiDung_Bac.cs [Design]",
+              "DocumentMoniker": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\QuanLyNguoiDung\\frm_ThongTinNguoiDung_Bac.cs",
+              "RelativeDocumentMoniker": "QuanLyNguoiDung\\frm_ThongTinNguoiDung_Bac.cs",
+              "ToolTip": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\QuanLyNguoiDung\\frm_ThongTinNguoiDung_Bac.cs [Design]",
+              "RelativeToolTip": "QuanLyNguoiDung\\frm_ThongTinNguoiDung_Bac.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T04:35:47.583Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_DoiMatKhau_Bac.cs [Design]",
+              "DocumentMoniker": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\QuanLyNguoiDung\\frm_DoiMatKhau_Bac.cs",
+              "RelativeDocumentMoniker": "QuanLyNguoiDung\\frm_DoiMatKhau_Bac.cs",
+              "ToolTip": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\QuanLyNguoiDung\\frm_DoiMatKhau_Bac.cs [Design]",
+              "RelativeToolTip": "QuanLyNguoiDung\\frm_DoiMatKhau_Bac.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T04:34:08.04Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frm_DangNhap_Bac.cs",
+              "DocumentMoniker": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\frm_DangNhap_Bac.cs",
+              "RelativeDocumentMoniker": "frm_DangNhap_Bac.cs",
+              "ToolTip": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\frm_DangNhap_Bac.cs",
+              "RelativeToolTip": "frm_DangNhap_Bac.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:45:29.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frm_DangNhap_Bac.cs [Design]",
+              "DocumentMoniker": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\frm_DangNhap_Bac.cs",
+              "RelativeDocumentMoniker": "frm_DangNhap_Bac.cs",
+              "ToolTip": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\frm_DangNhap_Bac.cs [Design]",
+              "RelativeToolTip": "frm_DangNhap_Bac.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:45:19.766Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frm_HoSoSinhVien.cs",
+              "DocumentMoniker": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\QuanLyHoSoSinhVien\\frm_HoSoSinhVien.cs",
+              "RelativeDocumentMoniker": "QuanLyHoSoSinhVien\\frm_HoSoSinhVien.cs",
+              "ToolTip": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\QuanLyHoSoSinhVien\\frm_HoSoSinhVien.cs*",
+              "RelativeToolTip": "QuanLyHoSoSinhVien\\frm_HoSoSinhVien.cs*",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:44:35.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frm_HoSoSinhVien.cs [Design]",
+              "DocumentMoniker": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\QuanLyHoSoSinhVien\\frm_HoSoSinhVien.cs",
+              "RelativeDocumentMoniker": "QuanLyHoSoSinhVien\\frm_HoSoSinhVien.cs",
+              "ToolTip": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\QuanLyHoSoSinhVien\\frm_HoSoSinhVien.cs [Design]*",
+              "RelativeToolTip": "QuanLyHoSoSinhVien\\frm_HoSoSinhVien.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:44:31.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConnectionData.cs",
+              "DocumentMoniker": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\Model\\ConnectionData.cs",
+              "RelativeDocumentMoniker": "Model\\ConnectionData.cs",
+              "ToolTip": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\Model\\ConnectionData.cs*",
+              "RelativeToolTip": "Model\\ConnectionData.cs*",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:37:49.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KetnoiModel.cs",
+              "DocumentMoniker": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\Model\\KetnoiModel.cs",
+              "RelativeDocumentMoniker": "Model\\KetnoiModel.cs",
+              "ToolTip": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\Model\\KetnoiModel.cs",
+              "RelativeToolTip": "Model\\KetnoiModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:35:35.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaoCaoThongKe.cs [Design]",
+              "DocumentMoniker": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\BaoCaoThongKe\\BaoCaoThongKe.cs",
+              "RelativeDocumentMoniker": "BaoCaoThongKe\\BaoCaoThongKe.cs",
+              "ToolTip": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\BaoCaoThongKe\\BaoCaoThongKe.cs [Design]",
+              "RelativeToolTip": "BaoCaoThongKe\\BaoCaoThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:14:13.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LopHocPhan.cs [Design]",
+              "DocumentMoniker": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\QuanLyLopHocPhan\\LopHocPhan.cs",
+              "RelativeDocumentMoniker": "QuanLyLopHocPhan\\LopHocPhan.cs",
+              "ToolTip": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\QuanLyLopHocPhan\\LopHocPhan.cs [Design]",
+              "RelativeToolTip": "QuanLyLopHocPhan\\LopHocPhan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:11:19.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TrangChu.cs",
+              "DocumentMoniker": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\TrangChu.cs",
+              "RelativeDocumentMoniker": "TrangChu.cs",
+              "ToolTip": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\TrangChu.cs",
+              "RelativeToolTip": "TrangChu.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAgwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T17:47:45.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TrangChu.cs [Design]",
+              "DocumentMoniker": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\TrangChu.cs",
+              "RelativeDocumentMoniker": "TrangChu.cs",
+              "ToolTip": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\TrangChu.cs [Design]",
+              "RelativeToolTip": "TrangChu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T17:37:09.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\Model\\SinhVien.cs",
+              "RelativeDocumentMoniker": "Model\\SinhVien.cs",
+              "ToolTip": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\Model\\SinhVien.cs",
+              "RelativeToolTip": "Model\\SinhVien.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAcwL0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:17:48.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frm_ThemSinhVien_Huyen.cs",
+              "DocumentMoniker": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\QuanLyHoSoSinhVien\\frm_ThemSinhVien_Huyen.cs",
+              "RelativeDocumentMoniker": "QuanLyHoSoSinhVien\\frm_ThemSinhVien_Huyen.cs",
+              "ToolTip": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\QuanLyHoSoSinhVien\\frm_ThemSinhVien_Huyen.cs",
+              "RelativeToolTip": "QuanLyHoSoSinhVien\\frm_ThemSinhVien_Huyen.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCIAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:09:23.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frm_ThemSinhVien_Huyen.cs [Design]",
+              "DocumentMoniker": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\QuanLyHoSoSinhVien\\frm_ThemSinhVien_Huyen.cs",
+              "RelativeDocumentMoniker": "QuanLyHoSoSinhVien\\frm_ThemSinhVien_Huyen.cs",
+              "ToolTip": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\QuanLyHoSoSinhVien\\frm_ThemSinhVien_Huyen.cs [Design]",
+              "RelativeToolTip": "QuanLyHoSoSinhVien\\frm_ThemSinhVien_Huyen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:09:21.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frm_QuanLyDiemMonHoc_Huyen.cs",
+              "DocumentMoniker": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\QuanLyDiem\\frm_QuanLyDiemMonHoc_Huyen.cs",
+              "RelativeDocumentMoniker": "QuanLyDiem\\frm_QuanLyDiemMonHoc_Huyen.cs",
+              "ToolTip": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\QuanLyDiem\\frm_QuanLyDiemMonHoc_Huyen.cs",
+              "RelativeToolTip": "QuanLyDiem\\frm_QuanLyDiemMonHoc_Huyen.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:07:05.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frm_QuanLyDiemMonHoc_Huyen.cs [Design]",
+              "DocumentMoniker": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\QuanLyDiem\\frm_QuanLyDiemMonHoc_Huyen.cs",
+              "RelativeDocumentMoniker": "QuanLyDiem\\frm_QuanLyDiemMonHoc_Huyen.cs",
+              "ToolTip": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\QuanLyDiem\\frm_QuanLyDiemMonHoc_Huyen.cs [Design]",
+              "RelativeToolTip": "QuanLyDiem\\frm_QuanLyDiemMonHoc_Huyen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:07:03.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\Resources\\Home.cs",
+              "RelativeDocumentMoniker": "Resources\\Home.cs",
+              "ToolTip": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\Resources\\Home.cs [Design]",
+              "RelativeToolTip": "Resources\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T17:38:18.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frm_DiemThi_Khanh.cs [Design]",
+              "DocumentMoniker": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\QuanLyDiem\\frm_DiemThi_Khanh.cs",
+              "RelativeDocumentMoniker": "QuanLyDiem\\frm_DiemThi_Khanh.cs",
+              "ToolTip": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\QuanLyDiem\\frm_DiemThi_Khanh.cs [Design]",
+              "RelativeToolTip": "QuanLyDiem\\frm_DiemThi_Khanh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:06:45.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\N2-QLSV-main\\N2-QLSV-main\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:27:38.776Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+E:\nam_4\DotNet_Prog_Practice\Co_TranMinhDuc\Nhom2_QLSV\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\nam_4\DotNet_Prog_Practice\Co_TranMinhDuc\Nhom2_QLSV\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\nam_4\DotNet_Prog_Practice\Co_TranMinhDuc\Nhom2_QLSV\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\nam_4\DotNet_Prog_Practice\Co_TranMinhDuc\Nhom2_QLSV\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+E:\nam_4\DotNet_Prog_Practice\Co_TranMinhDuc\Nhom2_QLSV\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\nam_4\DotNet_Prog_Practice\Co_TranMinhDuc\Nhom2_QLSV\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\nam_4\DotNet_Prog_Practice\Co_TranMinhDuc\Nhom2_QLSV\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\nam_4\DotNet_Prog_Practice\Co_TranMinhDuc\Nhom2_QLSV\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\nam_4\DotNet_Prog_Practice\Co_TranMinhDuc\Nhom2_QLSV\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\nam_4\DotNet_Prog_Practice\Co_TranMinhDuc\Nhom2_QLSV\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+E:\nam_4\DotNet_Prog_Practice\Co_TranMinhDuc\Nhom2_QLSV\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\nam_4\DotNet_Prog_Practice\Co_TranMinhDuc\Nhom2_QLSV\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\nam_4\DotNet_Prog_Practice\Co_TranMinhDuc\Nhom2_QLSV\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_DangNhap_Bac.resources
+E:\nam_4\DotNet_Prog_Practice\Co_TranMinhDuc\Nhom2_QLSV\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_QuanLyMonHoc_ThemMonHoc_Bac.resources
